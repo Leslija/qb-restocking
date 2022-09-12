@@ -1,3 +1,4 @@
+Config = {}
 Config.restockItems = {
     [0] = { -- This is for ranks
         weapon_combatpistol = 1, -- this is item name and max amount
